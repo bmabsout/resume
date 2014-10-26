@@ -50,7 +50,7 @@ International College (IC)
 
 ### Technical {#technical}
 
-* Programming Languages
+* Programming     Languages
   : Java, C/C++, F#, Python, Matlab, C#, Bash, SQL
 
 * Markup Languages
