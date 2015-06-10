@@ -17,11 +17,11 @@ Seeking a full-time or part-time job in the field of computer science as a softw
 American University of Beirut (AUB)
 : *Bachelor in Computer Science*
   __2012-2015__
-  Expected Date of Graduation: June 2015
+  Graduation Date: June 2015
 
   Technical Electives Taken: Numerical Computation, Artificial Intelligence, Digital Media Programming
 
-  Major course GPA: 90, Overall GPA: 80
+  Major required courses average: 88, Overall average: 77.85
 
 City Internation School (CIS)
 : *Lebanese Baccalaureate in Life Sciences*
@@ -51,7 +51,7 @@ International College (IC)
 ### Technical {#technical}
 
 * Programming     Languages
-  : Java, C/C++, F#, Python, Matlab, C#, Bash, SQL
+  : Java, C/C++, F#, Python, Matlab, C#, Bash, SQL, Haskell, Glsl, Clojure
 
 * Markup Languages
   : HTML, CSS, Markdown, Latex
@@ -77,7 +77,7 @@ International College (IC)
 1. Autocad
 1. Photoshop
 1. Microsoft Office
-1. Pandoc
+1. Arduino
 
 ------
 
