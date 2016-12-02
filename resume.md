@@ -8,7 +8,7 @@
 
 ### Objective {#profile}
 
-Seeking a full-time or part-time job in the field of computer science as a software developer. 
+Seeking a full-time or part-time job in the field of computer science as a researcher. 
 
 ------
 
