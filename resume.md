@@ -17,6 +17,7 @@ Seeking a full-time or part-time job in the field of computer science as a softw
 American University of Beirut (AUB)
 : *Bachelor in Computer Science*
   __2012-2015__
+
   Graduation Date: June 2015
 
   Technical Electives Taken: Numerical Computation, Artificial Intelligence, Digital Media Programming
@@ -33,6 +34,17 @@ International College (IC)
 
 ------
 
+### Experience {#experience}
+CCC
+:  __2015-2016__
+  Working as a java software developer for the core team working on CCT's C3D
+
+AUB
+:  __2016__
+  Working as a researcher on a neural networks/swarm systems paper
+
+------
+
 ### Projects {#projects}
 
 * Innovasion
@@ -44,14 +56,14 @@ International College (IC)
   : An application which allows the sharing of media to nearby individuals and estimates their location relative to the user.
 
 * Personal
-  : I have multiple personal projects under development (Free The Malloc, ReadablePlusPlus, physics engines and particle engines...).
+  :  Free The Malloc, ReadablePlusPlus, physics engines and particle engines etc ...
 
 -------
 
 ### Technical {#technical}
 
 * Programming     Languages
-  : Java, C/C++, F#, Python, Matlab, C#, Bash, SQL, Haskell, Glsl, Clojure
+  : Java, Haskell, C/C++, Matlab/Octave, Python, Bash, SQL, Glsl, Clojure, F#, C#
 
 * Markup Languages
   : HTML, CSS, Markdown, Latex
@@ -64,7 +76,6 @@ International College (IC)
 ### Tools {#tools}
 
 1. ANTLR
-1. Design Patterns
 1. Git
 1. Maven
 1. Makefile
@@ -72,12 +83,13 @@ International College (IC)
 1. Vim
 1. Visual Studio
 1. IntelliJ
-1. Eclipse
 1. Linux/Windows
 1. Autocad
 1. Photoshop
 1. Microsoft Office
 1. Arduino
+1. Shell
+1. Tiling window managers
 
 ------
 
@@ -91,7 +103,7 @@ __Team Management: Familiar with scrum, experience with multiple teams.__
 ### Efforts {#efforts}
 
 ACM
-: *Won 4th place in ACM ACPC*
+: *Won 4th place in ACM LCPC*
   __2014__
   
 AUB

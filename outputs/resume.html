@@ -2,7 +2,6 @@
 <html>
 <head>
 <meta charset="utf-8">
-<meta http-equiv="refresh" content="yes">
 
 <title>Bassel El Mabsout | Software Developer</title>
 <style type="text/css">
@@ -263,13 +262,11 @@ body.pdf h1 {
   letter-spacing: 0;
   margin-top: 0;
   font-size: 48px;
-  text-transform: uppercase;
-  font-weight: normal;
+  text-transform: none;
 }
 body.pdf h2 {
   letter-spacing: 0;
   text-transform: uppercase;
-  font-style: italic;
   font-weight: normal;
 }
 body.pdf h3 {
@@ -279,7 +276,7 @@ body.pdf h3 {
 }
 body.pdf h3+p {
   float: left;
-  width: 78%;
+  width: 84%;
 }
 body.pdf blockquote {
   top: 40px;
@@ -287,7 +284,7 @@ body.pdf blockquote {
   position: absolute;
 }
 body.pdf ul li {
-  width: 33%;
+  width: 28%;
   float: left;
 }
 body.pdf ul dl {
@@ -300,11 +297,11 @@ body.pdf ul dl dt {
   margin: 0 0 .75em;
 }
 body.pdf ul dl dd {
-  padding: 0 2em 0 0;
+  padding: 0 4em 0 0;
 }
 body.pdf ol {
   float: left;
-  width: 79%;
+  width: 84%;
   margin: .7em 0 0;
 }
 body.pdf ol li {
@@ -323,8 +320,6 @@ body.pdf dl {
   margin: .7em 0 0;
   page-break-inside: avoid !important;
   display: block;
-  width: 79%;
-  float: left;
 }
 body.pdf dl strong {
   float: right;
@@ -346,7 +341,7 @@ body.pdf dl em {
   content: ".";
 }
 body {
-  font-family: 'Hoefler Text', Times New Roman, Times, serif;
+  font-family: 'Helvetica Neue', 'Helvetica', Arial, serif;
   color: #444;
 }
 h1,
@@ -354,7 +349,15 @@ h2,
 h3,
 h4,
 ul dl dt {
-  font-family: Futura, "Century Gothic", AppleGothic, sans-serif;
+  font-family: 'Helvetica Neue Light', 'Helvetica', Arial, serif;
+}
+h1:before {
+  content: "+";
+  font-weight: bold;
+  color: orange;
+  margin: -1em 0 0 -0.5em;
+  position: relative;
+  top: -0.4em;
 }
 .container {
   margin: 0 auto;
@@ -403,25 +406,23 @@ h1 {
   padding: 0;
   font-size: 36px;
   letter-spacing: -1px;
-  font-weight: normal;
+  font-weight: bold;
 }
 h2 {
   margin: 0;
   padding: 0;
   font-size: 18px;
-  font-style: italic;
   letter-spacing: -1px;
-  font-weight: normal;
+  font-weight: bold;
 }
 h3 {
-  margin: 0px 20px;
+  margin: 0;
   padding: 0 0 .5em;
   font-size: 150%;
-  font-style: italic;
-  font-weight: normal;
+  font-weight: bold;
 }
 h3+p {
-  margin: .6em 0 16px;
+  margin: 0 0 16px;
   padding: 0;
   display: block;
   font-size: 104%;
@@ -431,7 +432,6 @@ ul {
   margin: 0;
   padding: 0;
   list-style: none;
-  display: table;
 }
 ul li {
   margin: 0;
@@ -471,8 +471,9 @@ ol li:nth-child(1) {
   border-top: none;
 }
 dl {
-  display: inline-block;
-  width: 78%;
+  float: left;
+  display: block;
+  width: 75%;
   margin: 0;
   padding: 0;
 }
@@ -495,6 +496,32 @@ dl em {
   font-size: 110%;
   margin: .15em 0 .5em;
   font-style: bold;
+}
+dl dd li {
+  width: 100%;
+  margin: 0 1em 1em;
+  list-style-type: square;
+}
+dl dt {
+  display: block;
+  clear: both;
+}
+dl dt {
+  border-top: 1px solid #ccc;
+  padding-top: 1em;
+}
+h3 + dl dt:first-child {
+  border: 0;
+  padding-top: 0;
+}
+dl dd p:first-child {
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 1.2em;
+}
+ul li dt {
+  border: 0;
+  padding-top: 0;
 }
 #footer {
   display: none;
@@ -545,15 +572,11 @@ dl em {
   h1 {
     margin-top: 0;
     font-size: 48px;
-    text-transform: uppercase;
-    letter-spacing: 3px;
-    font-weight: normal;
+    letter-spacing: -1px;
   }
   h2 {
     text-transform: uppercase;
-    font-style: italic;
-    letter-spacing: 2px;
-    font-weight: normal;
+    letter-spacing: 3px;
   }
   h3 {
     float: left;
@@ -561,10 +584,10 @@ dl em {
   }
   h3+p {
     float: left;
-    width: 78%;
+    width: 84%;
   }
   ul li {
-    width: 33%;
+    width: 28%;
     float: left;
   }
   ul dl dt {
@@ -573,11 +596,11 @@ dl em {
     margin-bottom: .75em;
   }
   ul dl dd {
-    padding: 0 2em 0 0;
+    padding: 0 4em 0 0;
   }
   ol {
     float: left;
-    width: 79%;
+    width: 84%;
     margin: .6em 0 0;
   }
   ol li {
@@ -591,9 +614,6 @@ dl em {
   ol li:nth-child(2),
   ol li:nth-child(3) {
     border-top: none;
-  }
-  dl {
-    margin: .5em 0 0;
   }
   dl strong {
     float: right;
@@ -635,8 +655,9 @@ dl em {
 <dt>American University of Beirut (AUB)</dt>
 <dd>
 <p><em>Bachelor in Computer Science</em>
-<strong>2012-2015</strong>
-Graduation Date: June 2015</p>
+<strong>2012-2015</strong></p>
+
+<p>Graduation Date: June 2015</p>
 
 <p>Technical Electives Taken: Numerical Computation, Artificial Intelligence, Digital Media Programming</p>
 
@@ -650,6 +671,20 @@ Graduation Date: June 2015</p>
 <dt>International College (IC)</dt>
 <dd><em>Lebanese Brevet</em>
 <strong>1996-2009</strong></dd>
+</dl>
+
+<hr />
+
+<h3 id="experience">Experience</h3>
+
+<dl>
+<dt>CCC</dt>
+<dd><strong>2015-2016</strong>
+Working as a java software developer for the core team working on CCT&#8217;s C3D</dd>
+
+<dt>AUB</dt>
+<dd><strong>2016</strong>
+Working as a researcher on a neural networks/swarm systems paper</dd>
 </dl>
 
 <hr />
@@ -671,7 +706,7 @@ Graduation Date: June 2015</p>
 </dl></li>
 <li><dl>
 <dt>Personal</dt>
-<dd>I have multiple personal projects under development (Free The Malloc, ReadablePlusPlus, physics engines and particle engines&#8230;).</dd>
+<dd>Free The Malloc, ReadablePlusPlus, physics engines and particle engines etc &#8230;</dd>
 </dl></li>
 </ul>
 
@@ -682,7 +717,7 @@ Graduation Date: June 2015</p>
 <ul>
 <li><dl>
 <dt>Programming     Languages</dt>
-<dd>Java, C/C++, F#, Python, Matlab, C#, Bash, SQL, Haskell, Glsl, Clojure</dd>
+<dd>Java, Haskell, C/C++, Matlab/Octave, Python, Bash, SQL, Glsl, Clojure, F#, C#</dd>
 </dl></li>
 <li><dl>
 <dt>Markup Languages</dt>
@@ -700,7 +735,6 @@ Graduation Date: June 2015</p>
 
 <ol>
 <li>ANTLR</li>
-<li>Design Patterns</li>
 <li>Git</li>
 <li>Maven</li>
 <li>Makefile</li>
@@ -708,12 +742,13 @@ Graduation Date: June 2015</p>
 <li>Vim</li>
 <li>Visual Studio</li>
 <li>IntelliJ</li>
-<li>Eclipse</li>
 <li>Linux/Windows</li>
 <li>Autocad</li>
 <li>Photoshop</li>
 <li>Microsoft Office</li>
 <li>Arduino</li>
+<li>Shell</li>
+<li>Tiling window managers</li>
 </ol>
 
 <hr />
@@ -729,7 +764,7 @@ Graduation Date: June 2015</p>
 
 <dl>
 <dt>ACM</dt>
-<dd><em>Won 4th place in ACM ACPC</em>
+<dd><em>Won 4th place in ACM LCPC</em>
 <strong>2014</strong></dd>
 
 <dt>AUB</dt>
