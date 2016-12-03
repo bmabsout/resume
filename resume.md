@@ -41,7 +41,7 @@ CCC
 
 AUB
 :  __2016__
-  Working as a researcher on a neural networks/swarm systems paper
+  Working as a researcher on my neural networks/swarm systems paper
 
 ------
 
@@ -56,7 +56,7 @@ AUB
   : An application which allows the sharing of media to nearby individuals and estimates their location relative to the user.
 
 * Personal
-  :  Free The Malloc, ReadablePlusPlus, physics engines and particle engines etc ...
+  :  I have solved prolems on project euler (8th in Lebanon), hackerrank, worked on physics and particle engines, a programming language called Readable Plus Plus and took coursera's machine learning course.
 
 -------
 
