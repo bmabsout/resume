@@ -35,13 +35,20 @@ International College (IC)
 ------
 
 ### Experience {#experience}
-CCC
-:  __2015-2016__
-  Working as a java software developer for the core team working on CCT's C3D
+Consolidated Contractors Company
+: *Software developer*
+  __2015-Present__
+  Working on CCT's C3D software, a leading 3D-based contruction project control
+  application.
+
+  *Technologies used:* Git, Java, Jira, Jenkins and SQL
 
 AUB
-:  __2016__
+: *Graduate Research Assistant*
+  __2016-Present__
   Working as a researcher on my neural networks/swarm systems paper
+  
+  *Technologies used:* Latex, Haskell, Octave, Git, Github
 
 ------
 
@@ -107,7 +114,7 @@ ACM
   __2014__
   
 AUB
-: *Won 1st place in AUB's 17th Annual Science, Mathematics and Technology fair*
+: *Won 1st place in AUB's Annual Science, Mathematics and Technology fair*
   __2011__
 
 MUN
