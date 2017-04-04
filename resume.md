@@ -63,7 +63,7 @@ AUB
   : An application which allows the sharing of media to nearby individuals and estimates their location relative to the user.
 
 * Personal
-  :  I have solved prolems on project euler (8th in Lebanon), hackerrank, worked on physics and particle engines, a programming language called Readable Plus Plus and took coursera's machine learning course.
+  :  I have solved prolems on project euler (4th in Lebanon), hackerrank, worked on physics and particle engines, a programming language called Readable Plus Plus and took coursera's machine learning course.
 
 -------
 
@@ -126,7 +126,7 @@ MUN
 ### Hobbies {#hobbies}
 
 Sports
-: Football, Ski, Squash
+: Football, Ski, Squash, Ping Pong
 
 Leisure
 : Remote Controlled Vehicles, Building Robots
