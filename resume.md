@@ -35,7 +35,7 @@ International College (IC)
 ------
 
 ### Experience {#experience}
-Consolidated Contractors Company
+CCT International
 : *Software developer*
   __2015-Present__
   Working on CCT's C3D software, a leading 3D-based contruction project control
