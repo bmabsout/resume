@@ -39,7 +39,7 @@ International College (IC)
 ### Experience {#experience}
 CCT International
 : *Software developer*
-  __2015-2017
+  __2015-2017__
   Working on CCT's C3D software, a leading 3D-based contruction project control
   application.
 
@@ -47,7 +47,7 @@ CCT International
 
 AUB
 : *Graduate Research Assistant*
-  __2016-2017
+  __2016-2017__
   Working as a researcher on my neural networks/swarm systems paper
   
   *Technologies used:* Haskell, Latex, Octave, Git, Github
