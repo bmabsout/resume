@@ -69,10 +69,10 @@ AUB
 
 -------
 
-### Technical (Ordered by familiarity) {#technical}
+### Technical {#technical}
 
 * Programming     Languages
-  : Java 8, Haskell, SQL, C/C++, Matlab/Octave, Python, Bash, Glsl, Clojure, F#, C#
+  : By familiarity: Java 8, Haskell, SQL, C/C++, Matlab/Octave, Python, Bash, Glsl, Clojure, F#, C#
 
 * Markup Languages
   : HTML, CSS, Markdown, Latex
