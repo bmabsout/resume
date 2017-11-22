@@ -3,8 +3,8 @@
 
 > [bme11@mail.aub.edu](mailto:bme11@mail.aub.edu)  
 > (961) 70-975965
+
 > [PDF Output](resume.pdf)
-> [Blog](bmabsout.github.io)
 
 ------
 
@@ -65,7 +65,7 @@ AUB
   : An application which allows the sharing of media to nearby individuals and estimates their location relative to the user.
 
 * Personal
-  : Coursera's machine learning specialization(avg 94.2%), Project Euler(4th in Lebanon), Hackerrank, physics engines, Blog, ReadablePlusPlus(lang)...
+  : Coursera's machine learning specialization(avg 94.2%), Project Euler(4th in Lebanon), Hackerrank, physics engines, [Blog](https://bmabsout.github.io), ReadablePlusPlus(lang)...
 
 -------
 
