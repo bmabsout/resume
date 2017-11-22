@@ -3,6 +3,8 @@
 
 > [bme11@mail.aub.edu](mailto:bme11@mail.aub.edu)  
 > (961) 70-975965
+> [PDF Output](resume.pdf)
+> [Blog](bmabsout.github.io)
 
 ------
 
@@ -37,7 +39,7 @@ International College (IC)
 ### Experience {#experience}
 Consolidated Contractors Company
 : *Software developer*
-  __2015-Present__
+  __2015-2017
   Working on CCT's C3D software, a leading 3D-based contruction project control
   application.
 
@@ -45,10 +47,10 @@ Consolidated Contractors Company
 
 AUB
 : *Graduate Research Assistant*
-  __2016-Present__
+  __2016-2017
   Working as a researcher on my neural networks/swarm systems paper
   
-  *Technologies used:* Latex, Haskell, Octave, Git, Github
+  *Technologies used:* Haskell, Latex, Octave, Git, Github
 
 ------
 
@@ -63,40 +65,40 @@ AUB
   : An application which allows the sharing of media to nearby individuals and estimates their location relative to the user.
 
 * Personal
-  :  I have solved prolems on project euler (4th in Lebanon), hackerrank, worked on physics and particle engines, a programming language called Readable Plus Plus and took coursera's machine learning course.
+  : Coursera's machine learning specialization(avg 94.2%), Project Euler(4th in Lebanon), Hackerrank, physics engines, Blog, ReadablePlusPlus(lang)...
 
 -------
 
-### Technical {#technical}
+### Technical (Ordered by familiarity) {#technical}
 
 * Programming     Languages
-  : Java, Haskell, C/C++, Matlab/Octave, Python, Bash, SQL, Glsl, Clojure, F#, C#
+  : Java 8, Haskell, SQL, C/C++, Matlab/Octave, Python, Bash, Glsl, Clojure, F#, C#
 
 * Markup Languages
   : HTML, CSS, Markdown, Latex
 
 * Frameworks
-  : OpenFrameWorks and Processing
+  : Tensorflow, OpenFrameWorks and Processing
 
 -------
 
 ### Tools {#tools}
 
-1. ANTLR
+1. NixOS
 1. Git
-1. Maven
+1. ArchLinux
+1. ANTLR
 1. Makefile
 1. Sublime Text
+1. XMonad
 1. Vim
-1. Visual Studio
 1. IntelliJ
-1. Linux/Windows
+1. Maven
+1. Arduino
+1. Windows
 1. Autocad
 1. Photoshop
 1. Microsoft Office
-1. Arduino
-1. Shell
-1. Tiling window managers
 
 ------
 
@@ -129,7 +131,7 @@ Sports
 : Football, Ski, Squash, Ping Pong
 
 Leisure
-: Remote Controlled Vehicles, Building Robots
+: Remote Controlled Vehicles, Playing Piano
 
 ------
 
