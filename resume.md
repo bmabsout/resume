@@ -4,6 +4,7 @@
 > [bme11@mail.aub.edu](mailto:bme11@mail.aub.edu)  
 > (961) 70-975965
 
+
 > [PDF Output](resume.pdf)
 
 ------
@@ -58,14 +59,14 @@ AUB
 
 * Innovasion
 : Digital Media Programming
-  : A project that immerses the user in a better 3D experience using 2 infrared cameras as well as 3D glasses.
+: A project that immerses the user in a better 3D experience using 2 infrared cameras as well as 3D glasses.
 
 * RoomCast
-: Software Engineering
-  : An application which allows the sharing of media to nearby individuals and estimates their location relative to the user.
+: *Software Engineering*
+: An application which allows the sharing of media to nearby individuals and estimates their location relative to the user.
 
 * Personal
-  : Coursera's machine learning specialization(avg 94.2%), Project Euler(4th in Lebanon), Hackerrank, physics engines, [Blog](https://bmabsout.github.io), ReadablePlusPlus(lang)...
+: Coursera's machine learning specialization(avg 94.2%), Project Euler(4th in Lebanon), Hackerrank, physics engines, [Blog](https://bmabsout.github.io), ReadablePlusPlus(lang)...
 
 -------
 
@@ -102,10 +103,10 @@ AUB
 
 ------
 
-### Soft Skills {#softskills}
+### Nationality {#nationality}
 
+__Nationalities: Portuguese and Lebanese.__       
 __Languages: English(fluent), Arabic(fluent), French(average).__       
-__Team Management: Familiar with scrum, experience with multiple teams.__       
 
 ------
 
